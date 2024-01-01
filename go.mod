@@ -1,6 +1,6 @@
 module github.com/gofly/tinc_exporter
 
-go 1.21.5
+go 1.21.4
 
 require github.com/prometheus/client_golang v1.18.0
 
